@@ -1,13 +1,5 @@
-###End Metals [![Build Status](https://travis-ci.org/jriwanek/End-Metals.svg?branch=master)](https://travis-ci.org/jriwanek/End-Metals)
-
-#### ( Info ) :
-
 End Metals is an Addon for the mod Base Metals, it expands it to bring its ores to the End dimension.
 
-It can fit perfectly in skyblock modpacks
-
-This mod can make use of Base Metals (By: DrCyano) http://minecraft.curseforge.com/projects/base-metals
-This mod can make use of Modern Metals (By: jriwanek) http://minecraft.curseforge.com/projects/modern-metals
 
 #### ( Vanilla Ores ):
 
@@ -51,13 +43,3 @@ This mod can make use of Modern Metals (By: jriwanek) http://minecraft.curseforg
 
 #### ( World ):
 End Ores spawn only in the End
-
-#### ( Github ):
-Check us on Github: https://github.com/MinecraftModDevelopmentMods/EndMetals
-
-#### ( Discord ):
-We have a Discord server!  You can join with the following invite link: https://discord.gg/0zDmvoH5AXIG1hgU
- 
-#### ( Modpacks ):
-Feel free to use it as long as you give credits and a link to this page.
-Optional: Let me know about it so I can check it out
